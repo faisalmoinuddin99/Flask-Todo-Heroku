@@ -28,3 +28,6 @@ web : gunicorn app:app
 Enter your credentials
 7. git init
 8. git add .
+9. git commit -m 
+10. heroku create "name"
+11. git push heroku master
